@@ -1,5 +1,5 @@
-# Kisak-Strike
-Kisak-Strike: Gentoo Offensive(KSGO) is a CSGO port aimed towards Linux enthusiasts. 
+# KEK-STRIKE
+KEK-STRIKE : INSTALL GENTOO (KSIG) - my attemt to create CS2 remake on KSGO sources. 
 
 It can be built 100% Open-Source with optional Closed-source components.
 
